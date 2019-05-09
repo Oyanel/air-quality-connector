@@ -1,0 +1,5 @@
+{
+  "BASE_LOGIN_ROUTE": "/auth",
+  "PROJECT_LIST": "/meta/projects",
+  "LAST_DATA": "/data/lastdata?project_id=%project_id%"
+}

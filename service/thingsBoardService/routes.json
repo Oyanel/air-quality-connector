@@ -1,0 +1,7 @@
+{
+  "BASE_LOGIN_ROUTE": "/auth/login",
+  "BASE_TELEMETRY_ROUTE": "/v1/%token%/telemetry",
+  "CREATE_DEVICE_ROUTE": "/device",
+  "DEVICE_CREDENTIALS_ROUTE": "/device/%deviceId%/credentials",
+  "TENANT_DEVICE_ROUTE": "/tenant/devices?deviceName=%deviceName%"
+}

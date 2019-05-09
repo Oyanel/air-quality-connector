@@ -1,0 +1,18 @@
+{
+    "thingsboard" : {
+        "user": "to edit",
+        "password": "to edit",
+        "host": "to edit",
+        "port": "to edit",
+        "endPoint": "/api"
+    },
+    "hagerService" : {
+        "user": "to edit",
+        "password": "to edit",
+        "host": "https://iotapi.azimut-monitoring.com",
+        "port": "80",
+        "endPoint": "/azimut/v1",
+        "apiKey": "to edit",
+        "project": 0
+    }
+}
